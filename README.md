@@ -2,7 +2,7 @@
 - 👀 I’m interested in creeating an app
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with data scientists
-- 
+  
   
 
 <!---

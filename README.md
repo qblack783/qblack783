@@ -1,4 +1,4 @@
-- Hi, I’m @qblack783 and I am currently a chemical scientist. Nice career but it's not exciting like tech.
+- Hi, I’m Que and I am currently a chemical scientist. Nice career but it's not exciting like tech.
 - I’m interested in creating an app and to have fun with some cool projects.
 - I’m currently learning python and SQL.
 - I’m looking to collaborate and meet people in this space.
